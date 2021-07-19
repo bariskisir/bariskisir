@@ -4,9 +4,9 @@
 I’m a software developer in Izmir/Turkey. I’m passionate about making value to the web applications with .NET.
 
 - 🔭 I’m currently working on Emakina.TR
-- 🌱 I’m currently learning Docker & K8s
+- 🌱 I’m currently learning .NET 5, PostgreSQL
 - 🐇 I’m busy with following the white rabbit
-- 💬 Ask me about: .NET, Azure 
+- 💬 Ask me about: .NET, Azure, Google Cloud, Docker
 
 ## 📫 How to reach me
 
