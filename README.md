@@ -16,6 +16,6 @@ I’m a senior software developer in Izmir/Turkey. I’m passionate about making
 <a href="https://twitter.com/bariskisir"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 <a href="https://www.bariskisir.com"><img src="https://img.shields.io/badge/website-%23CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white" height=25></a>
 <a href="https://about.me/bariskisir"><img src="https://img.shields.io/badge/about.me-%23AAA98F.svg?style=for-the-badge&logo=about.me&logoColor=white" height=25></a>
-<a href="https://bitbucket.org/bariskisir"><img src="https://img.shields.io/badge/bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white" height=25></a>
-<a href="https://gitlab.com/bariskisir"><img src="https://img.shields.io/badge/gitlab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white" height=25></a>
+<a href="https://www.npmjs.com/~bariskisir"><img src="https://img.shields.io/badge/npm-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white" height=25></a>
+<a href="https://hub.docker.com/u/bariskisir"><img src="https://img.shields.io/badge/dockerhub-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" height=25></a>
 </p>
