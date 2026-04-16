@@ -1,11 +1,6 @@
 <h3 align="center">👋 Hi there! I’m Barış Kısır</h3>
 
----
 I’m a senior software developer in Izmir/Turkey. I’m passionate about making value to the web applications with .NET.
-
-- 🌱 I’m currently learning PostgreSQL
-- 🐇 I’m busy with following the white rabbit
-- 💬 Ask me about: .NET, Azure, Docker
 
 ## 📫 How to reach me
 
